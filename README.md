@@ -4,7 +4,7 @@ A NodeJS application that implements a JSON server.
 
 ### Installing
 
-`git clone`
+`git clone https://github.com/Dj0nny/NodeJS-JSONServer`
 
 ### Running
 
