@@ -23,5 +23,5 @@ After that, open your browser and write
 
 ### Usage 
 
-Type `127.0.0.1:9999/artists.json` if you want to show the list of all artists in the homonym folder
-Type `127.0.0.1:9999/artists/_artistFolderName_` for showing the list of artist's record,
+* Type `127.0.0.1:9999/artists.json` if you want to show the list of all artists in the homonym folder
+* Type `127.0.0.1:9999/artists/artistFolderName`(__for example__: `127.0.0.1:9999/artists/Genesis.json`) for showing the list of artist's record,
